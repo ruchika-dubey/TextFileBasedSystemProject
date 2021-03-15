@@ -1,0 +1,3 @@
+1,Ruchika,10th D
+2,Prateek,1st A
+3,Mayank,5th E
